@@ -1,0 +1,4 @@
+socialfixer
+===========
+
+Social Fixer configuration
